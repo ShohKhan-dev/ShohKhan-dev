@@ -2,21 +2,25 @@
 <h1 align="center">Hi 👋, I'm Shohjahon Hamrakulov</h1>
 <h3 align="center">Full Stack Web, Automation and Bot developer</h3>
 
-<img alt="Coder GIF" align="right" height=300 width=380 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohkhan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shohkhan-dev" /> </p>
 
 - 🔭 I’m currently working on [InfoNutrition Web app](https://github.com/ShohKhan-dev/InfoNutrition)
 
+- ## 📝 Web Projects: [InfoNutrition](http://infonutrition.undo.it/), [NimaGaplar](http://65.109.138.63/), [MegaFilms](https://megafilms.netlify.app/), [NovioELD](https://app.novio-eld.com/)
+
 - 🌱 I’m currently learning **FastAPI, MongoDB, AWS, Stripe, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://shohjahon-portfolio.herokuapp.com/](https://shohjahon-portfolio.herokuapp.com/)
 
-- 📫 How to reach me **shoh.hamraqulov@gmail.com**
+- 📫 How to reach me: **shoh.hamraqulov@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Zuy5ieBvDJ0QDgvSDbPKKh_Jql-Pd4f2/view?usp=sharing](https://drive.google.com/file/d/1Zuy5ieBvDJ0QDgvSDbPKKh_Jql-Pd4f2/view?usp=sharing)
+- 📄 Know about my experiences: **[My CV](https://drive.google.com/file/d/1Zuy5ieBvDJ0QDgvSDbPKKh_Jql-Pd4f2/view?usp=sharing)**
 
-- ⚡ Fun fact **Street Workout athlete, Content Creator, Coach/Tutor**
+- ⚡ Other Activities: **Street Workout athlete, Content Creator, Coach/Tutor**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
