@@ -8,15 +8,13 @@
 
 - 🔭 I’m currently working on [InfoNutrition Web app](https://github.com/ShohKhan-dev/InfoNutrition)
 
-- ## 📝 Web Projects: [InfoNutrition](http://infonutrition.undo.it/), [NimaGaplar](http://65.109.138.63/), [MegaFilms](https://megafilms.netlify.app/), [NovioELD](https://app.novio-eld.com/)
+- ## 📝 Web Projects: [InfoNutrition](https://shohjahonh.pythonanywhere.com/), [NimaGaplar](http://65.109.138.63/), [MegaFilms](https://megafilms.netlify.app/), [NovioELD](https://app.novio-eld.com/)
 
 - 🌱 I’m currently learning **FastAPI, MongoDB, AWS, Stripe, GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://shohjahon-portfolio.herokuapp.com/](https://shohjahon-portfolio.herokuapp.com/)
-
 - 📫 How to reach me: **shoh.hamraqulov@gmail.com**
 
-- 📄 Know about my experiences: **[My CV](https://drive.google.com/file/d/1Zuy5ieBvDJ0QDgvSDbPKKh_Jql-Pd4f2/view?usp=sharing)**
+- 📄 Know about my experiences: **[My CV]()**
 
 - ⚡ Other Activities: **Street Workout athlete, Content Creator, Coach/Tutor**
 
