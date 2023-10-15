@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/71335668/211225722-4066217b-e428-4f72-8a5d-9055f51bf498.png)
 <h1 align="center">Hi 👋, I'm Shohjahon Hamrakulov</h1>
-<h3 align="center">Full Stack Web, Automation and Bot developer</h3>
+<h3 align="center">Python Backend Developer, Software Developer, Full Stack Web, Automation and Bot developer</h3>
 
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
