@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [InfoNutrition Web app](https://github.com/ShohKhan-dev/InfoNutrition)
 
-- ## 📝 Web Projects: [InfoNutrition](https://github.com/ShohKhan-dev/InfoNutrition), [NimaGaplar](https://github.com/ShohKhan-dev/nimagaplar), [MegaFilms](https://github.com/ShohKhan-dev/megafilms), [NovioELD],
+- ## 📝 Web Projects: [InfoNutrition](https://github.com/ShohKhan-dev/InfoNutrition), [NimaGaplar](https://github.com/ShohKhan-dev/nimagaplar), [MegaFilms](https://github.com/ShohKhan-dev/megafilms),
   [PaperTalk](https://github.com/ShohKhan-dev/PaperTalk)
 
 - 🌱 I’m currently learning **FastAPI, MongoDB, AWS, Stripe, GraphQL**
