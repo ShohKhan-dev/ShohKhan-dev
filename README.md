@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **shoh.hamraqulov@gmail.com**
 
-- 📄 Know about my experiences: **[My CV](https://drive.google.com/file/d/1knLardh_NFWEe9Y4__x6ZYOy9drsRB4T/view?usp=sharing)**
+- 📄 Know about my experiences: **[My CV](https://drive.google.com/file/d/19dfTCX_RRgDxrUjLCcuHpKqF0tAkH0mF/view?usp=sharing)**
 
 - ⚡ Other Activities: **Street Workout athlete, Content Creator, Coach/Tutor**
 
